@@ -1,0 +1,21 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateusz",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fs": "0.0.1-security",
+    "git": "^0.1.5",
+    "hastebin-gen": "^2.0.5",
+    "ms": "^2.1.1",
+    "randomstring": "^1.1.5",
+    "snekfetch": "^4.0.4",
+    "svg-captcha": "^1.4.0"
+  }
+}
